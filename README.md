@@ -1,6 +1,6 @@
 # npmdoc-alexa-app
 
-#### api documentation for  [alexa-app (v4.0.0)](https://github.com/alexa-js/alexa-app#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-alexa-app.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-alexa-app) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-alexa-app.svg)](https://travis-ci.org/npmdoc/node-npmdoc-alexa-app)
+#### basic api documentation for  [alexa-app (v4.0.0)](https://github.com/alexa-js/alexa-app#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-alexa-app.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-alexa-app) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-alexa-app.svg)](https://travis-ci.org/npmdoc/node-npmdoc-alexa-app)
 
 #### A module to simplify creation of Alexa (Amazon Echo) apps (Skills) using Node.js
 
@@ -95,7 +95,8 @@
         "test": "mocha",
         "test-with-coverage": "./node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha -- -R spec ./test/*.js"
     },
-    "version": "4.0.0"
+    "version": "4.0.0",
+    "bin": {}
 }
 ```
 
