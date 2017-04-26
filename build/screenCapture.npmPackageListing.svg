@@ -1,65 +1,65 @@
 <svg height="990" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="990" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 07:16:16 +0000   176372 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 07:16:16 +0000     7249 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 07:16:16 +0000     2706 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 07:16:16 +0000     1077 bytes  LICENSE.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 07:16:16 +0000    26070 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 07:16:16 +0000     2187 bytes  RELEASING.md</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 07:16:16 +0000     6693 bytes  UPGRADING.md</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 07:16:16 +0000      225 bytes  dangerfile.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 07:16:16 +0000     1404 bytes  example/express.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 07:16:16 +0000      351 bytes  example/lambda.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 07:16:16 +0000      305 bytes  example/package.json</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 07:16:16 +0000     3039 bytes  example/template.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 07:16:16 +0000     2138 bytes  example/test.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 07:16:16 +0000      157 bytes  example/views/test.ejs</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 07:16:16 +0000    21141 bytes  index.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 07:16:16 +0000      163 bytes  lib/normalize-api-path.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-18 07:16:16 +0000     1785 bytes  lib/to-ssml.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-18 07:16:16 +0000     3271 bytes  package.json</tspan>
-<tspan x="10" y="314"> 18.  2017-04-18 07:16:16 +0000       62 bytes  test/example.json</tspan>
-<tspan x="10" y="330"> 19.  2017-04-18 07:16:16 +0000       43 bytes  test/example.txt</tspan>
-<tspan x="10" y="346"> 20.  2017-04-18 07:16:16 +0000      451 bytes  test/fixtures/audio_player_event_request.json</tspan>
-<tspan x="10" y="362"> 21.  2017-04-18 07:16:16 +0000      848 bytes  test/fixtures/audio_player_events/playback_faile\</tspan>
+<tspan x="10" y="26">  0.  2017-04-26 02:14:14 +0000   176372 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-26 02:14:14 +0000     7249 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-26 02:14:14 +0000     2706 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-26 02:14:14 +0000     1077 bytes  LICENSE.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-26 02:14:14 +0000    26070 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-26 02:14:14 +0000     2187 bytes  RELEASING.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-26 02:14:14 +0000     6693 bytes  UPGRADING.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-26 02:14:14 +0000      225 bytes  dangerfile.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-26 02:14:14 +0000     1404 bytes  example/express.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-26 02:14:14 +0000      351 bytes  example/lambda.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-26 02:14:14 +0000      305 bytes  example/package.json</tspan>
+<tspan x="10" y="202"> 11.  2017-04-26 02:14:14 +0000     3039 bytes  example/template.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-26 02:14:14 +0000     2138 bytes  example/test.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-26 02:14:14 +0000      157 bytes  example/views/test.ejs</tspan>
+<tspan x="10" y="250"> 14.  2017-04-26 02:14:14 +0000    21141 bytes  index.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-26 02:14:14 +0000      163 bytes  lib/normalize-api-path.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-26 02:14:14 +0000     1785 bytes  lib/to-ssml.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-26 02:14:14 +0000     3271 bytes  package.json</tspan>
+<tspan x="10" y="314"> 18.  2017-04-26 02:14:14 +0000       62 bytes  test/example.json</tspan>
+<tspan x="10" y="330"> 19.  2017-04-26 02:14:14 +0000       43 bytes  test/example.txt</tspan>
+<tspan x="10" y="346"> 20.  2017-04-26 02:14:14 +0000      451 bytes  test/fixtures/audio_player_event_request.json</tspan>
+<tspan x="10" y="362"> 21.  2017-04-26 02:14:14 +0000      848 bytes  test/fixtures/audio_player_events/playback_faile\</tspan>
 <tspan x="10" y="378">d.json</tspan>
-<tspan x="10" y="394"> 22.  2017-04-18 07:16:16 +0000      555 bytes  test/fixtures/audio_player_events/playback_finis\</tspan>
+<tspan x="10" y="394"> 22.  2017-04-26 02:14:14 +0000      555 bytes  test/fixtures/audio_player_events/playback_finis\</tspan>
 <tspan x="10" y="410">hed.json</tspan>
-<tspan x="10" y="426"> 23.  2017-04-18 07:16:16 +0000      561 bytes  test/fixtures/audio_player_events/playback_nearl\</tspan>
+<tspan x="10" y="426"> 23.  2017-04-26 02:14:14 +0000      561 bytes  test/fixtures/audio_player_events/playback_nearl\</tspan>
 <tspan x="10" y="442">y_finished.json</tspan>
-<tspan x="10" y="458"> 24.  2017-04-18 07:16:16 +0000      548 bytes  test/fixtures/audio_player_events/playback_start\</tspan>
+<tspan x="10" y="458"> 24.  2017-04-26 02:14:14 +0000      548 bytes  test/fixtures/audio_player_events/playback_start\</tspan>
 <tspan x="10" y="474">ed.json</tspan>
-<tspan x="10" y="490"> 25.  2017-04-18 07:16:16 +0000      554 bytes  test/fixtures/audio_player_events/playback_stopp\</tspan>
+<tspan x="10" y="490"> 25.  2017-04-26 02:14:14 +0000      554 bytes  test/fixtures/audio_player_events/playback_stopp\</tspan>
 <tspan x="10" y="506">ed.json</tspan>
-<tspan x="10" y="522"> 26.  2017-04-18 07:16:16 +0000     1641 bytes  test/fixtures/intent_audioplayer.json</tspan>
-<tspan x="10" y="538"> 27.  2017-04-18 07:16:16 +0000      945 bytes  test/fixtures/intent_request_airport_info.json</tspan>
-<tspan x="10" y="554"> 28.  2017-04-18 07:16:16 +0000      918 bytes  test/fixtures/intent_request_airport_info_with_a\</tspan>
+<tspan x="10" y="522"> 26.  2017-04-26 02:14:14 +0000     1641 bytes  test/fixtures/intent_audioplayer.json</tspan>
+<tspan x="10" y="538"> 27.  2017-04-26 02:14:14 +0000      945 bytes  test/fixtures/intent_request_airport_info.json</tspan>
+<tspan x="10" y="554"> 28.  2017-04-26 02:14:14 +0000      918 bytes  test/fixtures/intent_request_airport_info_with_a\</tspan>
 <tspan x="10" y="570">ttributes.json</tspan>
-<tspan x="10" y="586"> 29.  2017-04-18 07:16:16 +0000      767 bytes  test/fixtures/intent_request_launch.json</tspan>
-<tspan x="10" y="602"> 30.  2017-04-18 07:16:16 +0000      398 bytes  test/fixtures/playback_controller_play_command.j\</tspan>
+<tspan x="10" y="586"> 29.  2017-04-26 02:14:14 +0000      767 bytes  test/fixtures/intent_request_launch.json</tspan>
+<tspan x="10" y="602"> 30.  2017-04-26 02:14:14 +0000      398 bytes  test/fixtures/playback_controller_play_command.j\</tspan>
 <tspan x="10" y="618">son</tspan>
-<tspan x="10" y="634"> 31.  2017-04-18 07:16:16 +0000      528 bytes  test/fixtures/session_ended_request.json</tspan>
-<tspan x="10" y="650"> 32.  2017-04-18 07:16:16 +0000      768 bytes  test/fixtures/unknown_type_request.json</tspan>
-<tspan x="10" y="666"> 33.  2017-04-18 07:16:16 +0000      322 bytes  test/helpers/mock_helper.js</tspan>
-<tspan x="10" y="682"> 34.  2017-04-18 07:16:16 +0000     9133 bytes  test/test_alexa_app_audioplayer.js</tspan>
-<tspan x="10" y="698"> 35.  2017-04-18 07:16:16 +0000     8154 bytes  test/test_alexa_app_cards.js</tspan>
-<tspan x="10" y="714"> 36.  2017-04-18 07:16:16 +0000      730 bytes  test/test_alexa_app_creation.js</tspan>
-<tspan x="10" y="730"> 37.  2017-04-18 07:16:16 +0000     2914 bytes  test/test_alexa_app_error_string_responses.js</tspan>
-<tspan x="10" y="746"> 38.  2017-04-18 07:16:16 +0000     1075 bytes  test/test_alexa_app_initialization.js</tspan>
-<tspan x="10" y="762"> 39.  2017-04-18 07:16:16 +0000     1730 bytes  test/test_alexa_app_intent.js</tspan>
-<tspan x="10" y="778"> 40.  2017-04-18 07:16:16 +0000    12373 bytes  test/test_alexa_app_intent_request.js</tspan>
-<tspan x="10" y="794"> 41.  2017-04-18 07:16:16 +0000     4979 bytes  test/test_alexa_app_launch_request.js</tspan>
-<tspan x="10" y="810"> 42.  2017-04-18 07:16:16 +0000     2499 bytes  test/test_alexa_app_playbackcontroller.js</tspan>
-<tspan x="10" y="826"> 43.  2017-04-18 07:16:16 +0000     3814 bytes  test/test_alexa_app_schema.js</tspan>
-<tspan x="10" y="842"> 44.  2017-04-18 07:16:16 +0000    13604 bytes  test/test_alexa_app_session.js</tspan>
-<tspan x="10" y="858"> 45.  2017-04-18 07:16:16 +0000     1513 bytes  test/test_alexa_app_session_ended_request.js</tspan>
-<tspan x="10" y="874"> 46.  2017-04-18 07:16:16 +0000     3649 bytes  test/test_alexa_app_unknown_type_request.js</tspan>
-<tspan x="10" y="890"> 47.  2017-04-18 07:16:16 +0000     2749 bytes  test/test_alexa_app_utterances_schema.js</tspan>
-<tspan x="10" y="906"> 48.  2017-04-18 07:16:16 +0000     7644 bytes  test/test_alexa_integration_express.js</tspan>
-<tspan x="10" y="922"> 49.  2017-04-18 07:16:16 +0000     1501 bytes  test/test_alexa_integration_lambda.js</tspan>
-<tspan x="10" y="938"> 50.  2017-04-18 07:16:16 +0000     1073 bytes  test/test_normalize_api_path.js</tspan>
-<tspan x="10" y="954"> 51.  2017-04-18 07:16:16 +0000     7291 bytes  test/test_ssml.js</tspan>
-<tspan x="10" y="970"> 52.  2017-04-18 07:16:16 +0000       77 bytes  test/views/test.ejs</tspan>
+<tspan x="10" y="634"> 31.  2017-04-26 02:14:14 +0000      528 bytes  test/fixtures/session_ended_request.json</tspan>
+<tspan x="10" y="650"> 32.  2017-04-26 02:14:14 +0000      768 bytes  test/fixtures/unknown_type_request.json</tspan>
+<tspan x="10" y="666"> 33.  2017-04-26 02:14:14 +0000      322 bytes  test/helpers/mock_helper.js</tspan>
+<tspan x="10" y="682"> 34.  2017-04-26 02:14:14 +0000     9133 bytes  test/test_alexa_app_audioplayer.js</tspan>
+<tspan x="10" y="698"> 35.  2017-04-26 02:14:14 +0000     8154 bytes  test/test_alexa_app_cards.js</tspan>
+<tspan x="10" y="714"> 36.  2017-04-26 02:14:14 +0000      730 bytes  test/test_alexa_app_creation.js</tspan>
+<tspan x="10" y="730"> 37.  2017-04-26 02:14:14 +0000     2914 bytes  test/test_alexa_app_error_string_responses.js</tspan>
+<tspan x="10" y="746"> 38.  2017-04-26 02:14:14 +0000     1075 bytes  test/test_alexa_app_initialization.js</tspan>
+<tspan x="10" y="762"> 39.  2017-04-26 02:14:14 +0000     1730 bytes  test/test_alexa_app_intent.js</tspan>
+<tspan x="10" y="778"> 40.  2017-04-26 02:14:14 +0000    12373 bytes  test/test_alexa_app_intent_request.js</tspan>
+<tspan x="10" y="794"> 41.  2017-04-26 02:14:14 +0000     4979 bytes  test/test_alexa_app_launch_request.js</tspan>
+<tspan x="10" y="810"> 42.  2017-04-26 02:14:14 +0000     2499 bytes  test/test_alexa_app_playbackcontroller.js</tspan>
+<tspan x="10" y="826"> 43.  2017-04-26 02:14:14 +0000     3814 bytes  test/test_alexa_app_schema.js</tspan>
+<tspan x="10" y="842"> 44.  2017-04-26 02:14:14 +0000    13604 bytes  test/test_alexa_app_session.js</tspan>
+<tspan x="10" y="858"> 45.  2017-04-26 02:14:14 +0000     1513 bytes  test/test_alexa_app_session_ended_request.js</tspan>
+<tspan x="10" y="874"> 46.  2017-04-26 02:14:14 +0000     3649 bytes  test/test_alexa_app_unknown_type_request.js</tspan>
+<tspan x="10" y="890"> 47.  2017-04-26 02:14:14 +0000     2749 bytes  test/test_alexa_app_utterances_schema.js</tspan>
+<tspan x="10" y="906"> 48.  2017-04-26 02:14:14 +0000     7644 bytes  test/test_alexa_integration_express.js</tspan>
+<tspan x="10" y="922"> 49.  2017-04-26 02:14:14 +0000     1501 bytes  test/test_alexa_integration_lambda.js</tspan>
+<tspan x="10" y="938"> 50.  2017-04-26 02:14:14 +0000     1073 bytes  test/test_normalize_api_path.js</tspan>
+<tspan x="10" y="954"> 51.  2017-04-26 02:14:14 +0000     7291 bytes  test/test_ssml.js</tspan>
+<tspan x="10" y="970"> 52.  2017-04-26 02:14:14 +0000       77 bytes  test/views/test.ejs</tspan>
 </text>
 </svg>
